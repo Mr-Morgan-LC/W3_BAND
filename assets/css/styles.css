@@ -235,7 +235,9 @@ html {
     margin-top: 25px;
     line-height: 1.5;
 }
-
+#container .team {
+    margin-top: 30px;
+}
 #container  .profile_section .name {
     font-size: 18px;
     font-weight: 500;
